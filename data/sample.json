@@ -1,0 +1,7 @@
+{
+    "i":123,
+    "d":5.6,
+    "hello":"Hello World from file",
+    "arr":[3,2,1],
+    "map":{"three":3,"four":4}
+}
